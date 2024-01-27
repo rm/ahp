@@ -44,18 +44,18 @@ body {
    =================== */
 
 .header-container {
-  border-bottom: 20px solid #e44d26;
+  border-bottom: 20px solid #283618;
 }
 
 .footer-container,
 .main > aside {
-  border-top: 20px solid #e44d26;
+  border-top: 20px solid #283618;
 }
 
 .header-container,
 .footer-container,
 .main > aside {
-  background: #f16529;
+  background: #606c38;
 }
 
 header h1 {
@@ -96,12 +96,12 @@ header h1 {
    ========================================================================== */
 
 h1 {
-  color: #e44d26;
+  color: #283618;
 }
 
 h2 {
-  color: #f16529;
-  border-top: 1px solid #f16529;
+  color: #606c38;
+  border-top: 1px solid #606c38;
   margin-bottom: 0;
   padding: 0.5em 0;
 }
@@ -175,14 +175,14 @@ aside button {
   text-transform: uppercase;
   cursor: pointer;
   border-radius: 8px;
-  background-color: #e44d26;
+  background-color: #283618;
   color: #ffc;
-  border: 2px solid #f08875;
-  border-color: #f08875 #7f2b22 #7f2b22 #f08875
+  border: 2px solid #dda15e;
+  border-color: #dda15e #bc6c25 #bc6c25 #dda15e
 }
 
 aside button:focus {
-  background-color: #dd2d18;
+  background-color: #3a5a40;
 }
 
 textarea#datamgmt {
